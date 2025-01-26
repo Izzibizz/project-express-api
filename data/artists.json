@@ -113,18 +113,19 @@
   },
   {
     "id": 8,
-    "name": "Ollie Lucas",
-    "birthplace": "Melbourne, Canada",
-    "technique": ["Painting"],
-    "year_of_birth": null,
+    "name": "Pippaluk Lake",
+    "birthplace": "Brøndbyøster, Denmark.",
+    "technique": ["Sculpture"],
+    "year_of_birth": 1962,
     "info_link": "https://www.instagram.com/ollie_lucas/",
     "images": [
       {
-        "image": "http://www.langford120.com.au/uploads/7/6/8/0/7680920/4617215_orig.jpg",
-        "alt": "Artwork by Ollie Lucas"
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737918252/pipaluk_lake_bv7qfl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737918252/pipaluk_lake_bv7qfl.jpg",
+        "alt": "Artwork by Pippaluk Lake"
       }
     ],
-    "gender": "Male",
+    "gender": "Female",
     "alive": true
   },
   {
@@ -762,35 +763,36 @@
   },
   {
     "id": 49,
-    "name": "Nick Cave",
-    "birthplace": "Fulton, Missouri, United States",
+    "name": "Rachel Youn",
+    "birthplace": "Abington, United States",
     "technique": ["Installation", "Performance", "Sculpture"],
-    "year_of_birth": 1959,
-    "info_link": "https://www.artsy.net/artist/nick-cave",
+    "year_of_birth": 1994,
+    "info_link": "https://rachelyoun.com/",
     "images": [
       {
-        "image": "https://www.selvedge.org/cdn/shop/articles/Nick_Cave_Soundsuits_1.jpg?v=1572971557",
-        "alt": "Artwork by Nick Cave"
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737917863/Rachel_Youn_zpglds.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737917863/Rachel_Youn_zpglds.jpg", 
+        "alt": "Artwork by Rachel Youn"
       }
     ],
-    "gender": "Male",
+    "gender": "Female",
     "alive": true
   },
   {
     "id": 50,
-    "name": "Elizabeth Murray",
-    "birthplace": "Chicago, Illinois, United States",
+    "name": "Claudia Piepenbrock",
+    "birthplace": "Paderborn, Germany",
     "technique": ["Painting", "Sculpture"],
-    "year_of_birth": 1940,
-    "info_link": "https://www.artsy.net/artist/elizabeth-murray",
+    "year_of_birth": 1990,
+    "info_link": "https://www.claudia-piepenbrock.de/",
     "images": [
       {
-        "image": "https://listart.mit.edu/sites/default/files/media/images/exhibitions/1987_elizabeth_murray_installation_1.jpg",
-        "alt": "Artwork by Elizabeth Murray"
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737919357/claudia_piepenbrock_zq4wjj.jpg",
+        "alt": "Artwork by Claudia Piepenbrock"
       }
     ],
     "gender": "Female",
-    "alive": false
+    "alive": true
   },
   {
     "id": 51,
@@ -810,71 +812,69 @@
   },
   {
     "id": 52,
-    "name": "Henri Matisse",
-    "birthplace": "Le Cateau-Cambrésis, France",
-    "technique": ["Painting", "Sculpture"],
-    "year_of_birth": 1869,
-    "year_of_death": 1954,
-    "info_link": "https://www.artsy.net/artist/henri-matisse",
+    "name": "Alison Wilding",
+    "birthplace": "Blackburn, United Kingdom",
+    "technique": ["Sculpture", "Drawing"],
+    "year_of_birth": 1948,
+    "info_link": "https://www.instagram.com/alisonrewilding/",
     "images": [
       {
-        "image": "https://backend.artreview.com/wp-content/uploads/2015/08/heroWOA_IMAGE_1-2048x1410.jpg",
-        "alt": "Artwork by Henri Matisse"
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737918905/alison_wilding_uxjn6o.jpg",
+        "alt": "Artwork by Alison Wilding"
       }
     ],
-    "gender": "Male",
-    "alive": false
+    "gender": "Female",
+    "alive": true
   },
   {
     "id": 53,
-    "name": "Hilma af Klint",
-    "birthplace": "Solna, Sweden",
-    "technique": ["Painting"],
-    "year_of_birth": 1862,
-    "year_of_death": 1944,
-    "info_link": "https://www.artsy.net/artist/hilma-af-klint",
+    "name": "Michael Johansson",
+    "birthplace": "Trollhättan, Sweden",
+    "technique": ["Sculpture", "Installation"],
+    "year_of_birth": 1975,
+    "info_link": "hhttps://www.michaeljohansson.com/",
     "images": [
       {
-        "image": "https://www.guggenheim.org/wp-content/uploads/2019/04/installation-srgm-hilma-2480x1396.jpg",
-        "alt": "Artwork by Hilma af Klint"
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737918568/michael_johansson_knzmg1.jpg",
+        "alt": "Artwork by Michael Johansson"
       }
     ],
-    "gender": "Female",
-    "alive": false
+    "gender": "Male",
+    "alive": true
   },
   {
     "id": 54,
-    "name": "Frida Kahlo",
-    "birthplace": "Coyoacán, Mexico City, Mexico",
-    "technique": ["Painting"],
-    "year_of_birth": 1907,
-    "year_of_death": 1954,
-    "info_link": "https://www.fridakahlo.org/",
+    "name": "Ernesto Burgos",
+    "birthplace": "Santa Clara, California, The United States",
+    "technique": ["Painting", "Sculpture"],
+    "year_of_birth": 1979,
+    "info_link": "https://www.ernestoburgos.com/",
     "images": [
       {
-        "image": "https://assets2.theenglishfarm.com/sites/default/files/styles/featured_image/public/frida_kahlo-roots_0.jpg?itok=Rb9n3DcR",
-        "alt": "Artwork by Frida Kahlo"
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737919638/ernesto_burgos_bwqamd.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737919638/ernesto_burgos_bwqamd.jpg",
+        "alt": "Artwork by Ernesto Burgos"
       }
     ],
-    "gender": "Female",
-    "alive": false
+    "gender": "Male",
+    "alive": true
   },
   {
     "id": 55,
-    "name": "Georgia O'Keeffe",
-    "birthplace": "Sun Prairie, Wisconsin, United States",
-    "technique": ["Painting"],
-    "year_of_birth": 1887,
-    "year_of_death": 1986,
-    "info_link": "https://www.okeeffemuseum.org/",
+    "name": "Hanne Friis",
+    "birthplace": "Oslo, Norway",
+    "technique": ["Sculpture"],
+    "year_of_birth": 1972,
+    "info_link": "https://www.hannefriis.com/",
     "images": [
       {
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/e2e6ac1/2147483647/strip/true/crop/2800x1866+0+182/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F92%2F3e%2Ff0f837ac4d9c9601d7db7b5a24da%2Fokeeffe-pelvis-with-the-distance-newfields.jpg",
-        "alt": "Artwork by Georgia O'Keeffe"
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737920012/hanne_friis_p61pkw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737920012/hanne_friis_p61pkw.jpg",
+        "alt": "Artwork by Hanne Friis"
       }
     ],
     "gender": "Female",
-    "alive": false
+    "alive": true
   },
   {
     "id": 56,
@@ -1047,5 +1047,23 @@
     ],
     "gender": "Male",
     "alive": true
+  },
+  {
+    "id": 66,
+    "name": "Lili Dujourie",
+    "birthplace": "Roeselare, Belgium",
+    "technique": ["Sculpture", "Painting"],
+    "year_of_birth": 1941,
+    "info_link": "https://lilidujourie.be/",
+    "images": [
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737920194/lili-dujourie_c2wkf6.jpg",
+        "thumbnail": "",
+        "alt": "Artwork by Lili Dujourie"
+      }
+    ],
+    "gender": "Female",
+    "alive": true
   }
+  
 ]
