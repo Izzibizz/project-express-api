@@ -1049,7 +1049,7 @@
     "alive": true
   },
   {
-    "id": 66,
+    "id": 67,
     "name": "Lili Dujourie",
     "birthplace": "Roeselare, Belgium",
     "technique": ["Sculpture", "Painting"],
@@ -1058,8 +1058,43 @@
     "images": [
       {
         "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737920194/lili-dujourie_c2wkf6.jpg",
-        "thumbnail": "",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737920194/lili-dujourie_c2wkf6.jpg",
         "alt": "Artwork by Lili Dujourie"
+      }
+    ],
+    "gender": "Female",
+    "alive": true
+  }
+  ,
+  {
+    "id": 68,
+    "name": "Vera Kox",
+    "birthplace": "Frankfurt, Germany",
+    "technique": ["Sculpture", "Painting"],
+    "year_of_birth": 1984,
+    "info_link": "https://verakox.com/",
+    "images": [
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737920425/Vera_Kox_vm0hks.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737920425/Vera_Kox_vm0hks.jpg",
+        "alt": "Artwork by Vera Kox"
+      }
+    ],
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "id": 69,
+    "name": "Sara Bjarland",
+    "birthplace": "Helsinki, Finland",
+    "technique": ["Sculpture"],
+    "year_of_birth": 1981,
+    "info_link": "https://sarabjarland.com/",
+    "images": [
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737920804/sara_bjarland_uaremt.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737920804/sara_bjarland_uaremt.jpg",
+        "alt": "Artwork by Sara Bjarland"
       }
     ],
     "gender": "Female",
