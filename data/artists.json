@@ -1099,6 +1099,23 @@
     ],
     "gender": "Female",
     "alive": true
+  },
+  {
+    "id": 70,
+    "name": "Anne-Marie Laureys",
+    "birthplace": "Beveren Waas, Belgium",
+    "technique": ["Sculpture"],
+    "year_of_birth": 1962,
+    "info_link": "https://www.annemarielaureys.com/",
+    "images": [
+      {
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737921098/anne-marie_laureys_nsrknk.jpg",
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737921098/anne-marie_laureys_nsrknk.jpg",
+        "alt": "Artwork by Anne-Marie Laureys"
+      }
+    ],
+    "gender": "Female",
+    "alive": true
   }
   
 ]
