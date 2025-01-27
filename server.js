@@ -25,11 +25,17 @@ app.get('/artists', (req, res) => {
 
 app.get('/artists/:name', (req, res) => {
   const name = req.params.name
-  const artistWithName = artistData.filter((artist) =>  artist.name.replace(/ /g, "_").toLowerCase() === name.toLowerCase()
+  const artistWithName = artistData.filter((artist) => artist.name
+      .toLowerCase()
+      .normalize("NFD") // Normalize accented characters into base + diacritic
+      .replace(/[\u0300-\u036f]/g, "") // Remove diacritics
+      .replace(/ /g, "_") // Replace spaces with underscores
+      .replace(/[^a-z0-9_]/g, "") // Remove non-alphanumeric characters (except underscores)
+   === name)
   if (artistWithName.length > 0) {
     res.json(artistWithName)
   } else {
-    res.status(404).json({ error: 'Could not find an artist with this name. Try underscoring the space between, like this: Damien_Hirst'})
+    res.status(404).json({ error: 'Could not find an artist with this name. Try capitalizing the first letter of each name and underscoring the space between, like this: Damien_Hirst'})
     } 
   }
 )
