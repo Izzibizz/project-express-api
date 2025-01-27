@@ -1169,6 +1169,124 @@
     ],
     "gender": "Male",
     "alive": true
+  },
+  {
+    "id": 72,
+    "name": "Daiga Grantina",
+    "birthplace": "Saldus, Latvia",
+    "technique": ["Sculpture"],
+    "year_of_birth": 1985,
+    "info_link": "https://emalin.co.uk/artists/daiga-grantina",
+    "images": [
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963706/daiga_grantina_jirvvw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963706/daiga_grantina_jirvvw.jpg",
+        "alt": "Artwork by Daiga Grantina"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963704/daiga_gandtina_abvjhm.webp",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963704/daiga_gandtina_abvjhm.webp",
+        "alt": "Artwork by Daiga Grantina"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963702/Daiga-Grantina-at-Z33_3_cthxvk.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963702/Daiga-Grantina-at-Z33_3_cthxvk.jpg",
+        "alt": "Artwork by Daiga Grantina"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963701/Daiga-Grantina-3_um1gga.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963701/Daiga-Grantina-3_um1gga.jpg",
+        "alt": "Artwork by Daiga Grantina"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963699/daiga_grantina-2_ujqszi.webp",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963699/daiga_grantina-2_ujqszi.webp",
+        "alt": "Artwork by Daiga Grantina"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963697/daiga_grantina-1_e0cnku.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963697/daiga_grantina-1_e0cnku.jpg",
+        "alt": "Artwork by Daiga Grantina"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737964104/daiga_grantina-2_x9tk4j.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737964104/daiga_grantina-2_x9tk4j.jpg",
+        "alt": "Artwork by Daiga Grantina"
+      }
+    ],
+
+    
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "id": 73,
+    "name": "Pakui Hardware",
+    "birthplace": "Lithuania",
+    "technique": ["Sculpture", "Installation"],
+    "year_of_birth": 2014,
+    "info_link": "https://www.pakuihardware.org/",
+    "images": [
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737964631/pakui-hardware-3_m0nmsc.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737964631/pakui-hardware-3_m0nmsc.jpg",
+        "alt": "Artwork by Pakui Hardware"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737964633/pakui_hardware_1_j2ddfs.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737964633/pakui_hardware_1_j2ddfs.jpg",
+        "alt": "Artwork by Pakui Hardware"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737964629/pakui-hardware-2_xcbdbn.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737964629/pakui-hardware-2_xcbdbn.jpg",
+        "alt": "Artwork by Pakui Hardware"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737964627/pakui_hardware-1_terlrx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737964627/pakui_hardware-1_terlrx.jpg",
+        "alt": "Artwork by Pakui Hardware"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737964625/pakui_hardware_s9qaim.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737964625/pakui_hardware_s9qaim.jpg",
+        "alt": "Artwork by Pakui Hardware"
+      }
+    ],
+    "gender": null,
+    "alive": true
+  },
+  {
+    "id": 73,
+    "name": "Mariko Mori",
+    "birthplace": "Tokyo, Japan",
+    "technique": ["Sculpture", "Installation"],
+    "year_of_birth": 1967,
+    "info_link": "hhttps://www.skny.com/artists/mariko-mori",
+    "images": [
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737965080/mariko-mori-2_loiiyj.webp",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737965080/mariko-mori-2_loiiyj.webp",
+        "alt": "Artwork by Mariko Mori"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737965113/mariko-mori-3_yhw5vw.webp",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737965113/mariko-mori-3_yhw5vw.webp",
+        "alt": "Artwork by Mariko Mori"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737965115/mariko-mori_o9zjyh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737965115/mariko-mori_o9zjyh.jpg",
+        "alt": "Artwork by Mariko Mori"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737965232/mariko-mori2_jnyzcp.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737965232/mariko-mori2_jnyzcp.jpg",
+        "alt": "Artwork by Mariko Mori"
+      }
+    ],
+    "gender": "Female",
+    "alive": true
   }
   
 ]
