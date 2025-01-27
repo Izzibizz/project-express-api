@@ -441,7 +441,8 @@
     "info_link": "https://www.nytimes.com/2021/08/20/arts/kaari-upson-dead.html",
     "images": [
       {
-        "image": "https://static01.nyt.com/images/2021/08/21/obituaries/20upson3/merlin_193469319_488fc9aa-acb8-47d7-8280-e792ec4ee97b-superJumbo.jpg?quality=75&auto=webp",
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737921279/kaari_upson_pikapx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737921279/kaari_upson_pikapx.jpg",
         "alt": "Kaari Upson Work"
       }
     ],
@@ -1095,6 +1096,16 @@
         "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737920804/sara_bjarland_uaremt.jpg",
         "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737920804/sara_bjarland_uaremt.jpg",
         "alt": "Artwork by Sara Bjarland"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963307/drought-I-web-1280x1707-sara-bjarland_kuenvr.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963307/drought-I-web-1280x1707-sara-bjarland_kuenvr.jpg",
+        "alt": "Artwork by Sara Bjarland"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963310/sara-bjarland_qfz04s.webp",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963310/sara-bjarland_qfz04s.webpg",
+        "alt": "Artwork by Sara Bjarland"
       }
     ],
     "gender": "Female",
@@ -1109,12 +1120,54 @@
     "info_link": "https://www.annemarielaureys.com/",
     "images": [
       {
-        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737921098/anne-marie_laureys_nsrknk.jpg",
         "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737921098/anne-marie_laureys_nsrknk.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737921098/anne-marie_laureys_nsrknk.jpg",
+        "alt": "Artwork by Anne-Marie Laureys"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963142/anne-marie-laureys-2_bcfgxe.webp",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963155/anne-marie-laureys_rk8lds.jpg",
+        "alt": "Artwork by Anne-Marie Laureys"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963154/Anne-Marie-Laureys-Courtesy-of-Jason-Jacques_iqub9h.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963154/Anne-Marie-Laureys-Courtesy-of-Jason-Jacques_iqub9h.jpg",
+        "alt": "Artwork by Anne-Marie Laureys"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963142/anne-marie-laureys-2_bcfgxe.webp",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963142/anne-marie-laureys-2_bcfgxe.webp",
         "alt": "Artwork by Anne-Marie Laureys"
       }
     ],
     "gender": "Female",
+    "alive": true
+  },
+  {
+    "id": 71,
+    "name": "Jeremy Everett",
+    "birthplace": "Colorado, United States",
+    "technique": ["Sculpture", "Painting", "Photography"],
+    "year_of_birth": 1979,
+    "info_link": "https://www.instagram.com/_jeremyeverett/?hl=en",
+    "images": [
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737962401/jeremy_everett_lviru0.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737962401/jeremy_everett_lviru0.jpg",
+        "alt": "Artwork by Jeremy Everett"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963009/jeremy-everett-photo_mkzpwg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963009/jeremy-everett-photo_mkzpwg.jpg",
+        "alt": "Artwork by Jeremy Everett"
+      },
+      {
+        "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963017/jeremy-everett-installation_hy8mwh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963017/jeremy-everett-installation_hy8mwh.jpg",
+        "alt": "Artwork by Jeremy Everett"
+      }
+    ],
+    "gender": "Male",
     "alive": true
   }
   
