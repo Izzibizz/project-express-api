@@ -25,11 +25,11 @@ app.get('/artists', (req, res) => {
 
 app.get('/artists/:name', (req, res) => {
   const name = req.params.name
-  const artistWithName = artistData.filter((artist) => artist.name.replace(/ /g,"_") === name)
+  const artistWithName = artistData.filter((artist) =>  artist.name.replace(/ /g, "_").toLowerCase() === name.toLowerCase()
   if (artistWithName.length > 0) {
     res.json(artistWithName)
   } else {
-    res.status(404).json({ error: 'Could not find an artist with this name. Try capitalizing the first letter of each name and underscoring the space between, like this: Damien_Hirst'})
+    res.status(404).json({ error: 'Could not find an artist with this name. Try underscoring the space between, like this: Damien_Hirst'})
     } 
   }
 )
