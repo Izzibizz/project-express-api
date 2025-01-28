@@ -1513,7 +1513,7 @@
     "images": [
       {
         "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737918568/michael_johansson_knzmg1.jpg",
-        "thumbnail": "",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737918568/michael_johansson_knzmg1.jpg",
         "alt": "Artwork by Michael Johansson"
       },
       {
