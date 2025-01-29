@@ -1477,7 +1477,7 @@
     "images": [
       {
         "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737918905/alison_wilding_uxjn6o.jpg",
-        "thumbnail": "",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737918905/alison_wilding_uxjn6o.jpg",
         "alt": "Artwork by Alison Wilding"
       },
       {
@@ -2015,7 +2015,7 @@
       },
       {
         "image": "https://res.cloudinary.com/dbf8xygxz/image/upload/v1737963310/sara-bjarland_qfz04s.webp",
-        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963310/sara-bjarland_qfz04s.webpg",
+        "thumbnail": "https://res.cloudinary.com/dbf8xygxz/image/upload/c_thumb,w_200,g_face/v1737963310/sara-bjarland_qfz04s.webp",
         "alt": "Artwork by Sara Bjarland"
       },
       {
