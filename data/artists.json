@@ -838,7 +838,7 @@
     "images": [
       {
         "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745306196/Yoko_Ono_utfadz.jpg",
-        "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306196/Yoko_Ono_utfadz.jpgg",
+        "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306196/Yoko_Ono_utfadz.jpg",
         "alt": "Yoko Ono artwork"
       },
       {
@@ -858,7 +858,7 @@
       },
       {
         "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745306192/Yoko_Ono-5_llix6l.webp",
-        "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306192/Yoko_Ono-5_llix6l.web",
+        "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306192/Yoko_Ono-5_llix6l.webp",
         "alt": "Yoko Ono artwork"
       }
     ],
