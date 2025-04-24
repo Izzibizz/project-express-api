@@ -65,7 +65,7 @@
         "alt": "Artwork by Niclas Lamas"
       },
       {
-        "image": "hhttps://res.cloudinary.com/dewmyq6c0/image/upload/v1745306040/Nicolas-lamas-2_hnyk3o.jpg",
+        "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745306040/Nicolas-lamas-2_hnyk3o.jpg",
         "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306040/Nicolas-lamas-2_hnyk3o.jpg",
         "alt": "Artwork by Niclas Lamas"
       }
@@ -1519,7 +1519,7 @@
     "birthplace": "Trollhättan, Sweden",
     "technique": ["Sculpture", "Installation"],
     "year_of_birth": 1975,
-    "info_link": "hhttps://www.michaeljohansson.com/",
+    "info_link": "https://www.michaeljohansson.com/",
     "images": [
       {
         "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745306145/Michael_Johansson-3_p6b0nr.jpg",
@@ -2188,7 +2188,7 @@
     "birthplace": "Tokyo, Japan",
     "technique": ["Sculpture", "Installation"],
     "year_of_birth": 1967,
-    "info_link": "hhttps://www.skny.com/artists/mariko-mori",
+    "info_link": "https://www.skny.com/artists/mariko-mori",
     "images": [
       {
         "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745305989/Mariko_Mori-4_helfld.png",
