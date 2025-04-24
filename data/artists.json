@@ -124,6 +124,11 @@
     "info_link": "https://www.artsy.net/artist/olafur-eliasson",
     "images": [
       {
+        "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745306061/olafur-eliasson_fcdwbr.jpg",
+        "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306061/olafur-eliasson_fcdwbr.jpg",
+        "alt": "Artwork by Olafur Eliasson"
+      },
+      {
         "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745306052/olafur-eliasson-2_muiens.jpg",
         "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306052/olafur-eliasson-2_muiens.jpg",
         "alt": "Artwork by Olafur Eliasson"
@@ -136,11 +141,6 @@
       {
         "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745306057/olafur-eliasson-5_wyvh9p.webp",
         "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306057/olafur-eliasson-5_wyvh9p.webp",
-        "alt": "Artwork by Olafur Eliasson"
-      },
-      {
-        "image": "https://res.cloudinary.com/dewmyq6c0/image/upload/v1745306061/olafur-eliasson_fcdwbr.jpg",
-        "thumbnail": "https://res.cloudinary.com/dewmyq6c0/image/upload/t_w-150/v1745306061/olafur-eliasson_fcdwbr.jpg",
         "alt": "Artwork by Olafur Eliasson"
       },
       {
